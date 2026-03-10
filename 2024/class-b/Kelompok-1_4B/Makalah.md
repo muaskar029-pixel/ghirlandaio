@@ -67,15 +67,14 @@ Kemudian, pada masa kebangkitan, konflik berakar pada perdebatan validitas keben
 Lalu, pada masa modern, konflik terjadi karena perpecahan humanisme. Terdapat cabang humanisme ortodoks yang dikenal sebagai liberalisme. Kemudian, pada abad 19 dan 20, dua cabang humanisme lain tumbuh, yaitu humanisme sosialis dan evolusioner. Kedua cabang tidak mempercayai adanya kekuatan transdental atau hukum ilahiah serta kaum sosialis dan evolusioner berpendapat bahwa pemahaman liberal tentang pengalaman manusia adalah cacat.
 
 **C. Perbedaan Metodologis antara Sains dan Agama**
-* Metodologis  Sains
-bergantung pada akal sehat namun tidak cocok untuk menangani permasalahan nilai dan makna. Ketika sains mampu menghadapi problem praktis seperti menentukan bentuk bumi, membangun sebuah jembatan, atau mampu mengobati orang sakit, Sains mampu mengatasi nya dengan cara ditelaah lebih jauh dengan akal sehat melalui tindakan langsung tanpa melibatkan rasa atau subjektifitas semata, sementara ketika berhadapan dengan problem etis seperti perceraian, aborsi yang Mengedepankan makna sains tidak bisa jadi solusi.
-Jadi agama lah yg jadi solusi menyikapi hal tersebut.
+Metodologis  Sains
+bergantung  pada pengakuan dan ketidaktahuan, pengamatan dan pembuktian, matematika,dan dukungan dana. Ketika sains mampu menghadapi problem praktis seperti menentukan bentuk bumi, membangun sebuah jembatan, atau mampu mengobati orang sakit, Sains mampu mengatasi nya dengan cara ditelaah lebih jauh dengan pengamatan, pembuktian dan percobaan melalui tindakan langsung.
 * Metodologis Agama
-bersifat penuh makna, etika, prilaku dan ketuhanan  
+adalah etika dan aturan.
 Seperti contohnya pendidikan fokus pada penananam kepatuhan, penghafalan kitab suci, dan pembelajaran tradisi-tradisi kuno.
-Bahwa yang dilakukan berkaitan dengan agama yang dianggap benar jadi diharuskan untuk patuh untuk hal tersebut, lalu harus dijaga baik - baik karena merupakan kemurnian yang harus dijaga yang telah lama ada.Gambaran kepatuhan terhadap tuhan sebagai bentuk keimanan.
+Bahwa yang dilakukan berkaitan dengan agama yang dianggap benar jadi diharuskan untuk patuh untuk hal tersebut, lalu harus dijaga baik - baik karena merupakan kemurnian yang harus dijaga yang telah lama ada. Gambaran kepatuhan terhadap tuhan sebagai bentuk keimanan.
 * Perbedaan dua metodologis tersebut
-berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains dan agama adalah pada kekuatan dan makna. Kekuatan yang bersifat objektif dan makna subjektif.
+berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains dan agama adalah kekuatan dan makna.
 
 **D. Analisa Mendalam terhadap Konflik**
   
