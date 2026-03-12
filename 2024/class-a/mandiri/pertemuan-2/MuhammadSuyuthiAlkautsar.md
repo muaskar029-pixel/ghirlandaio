@@ -100,22 +100,24 @@ Dalam masyarakat modern, sains telah memberikan kemampuan besar kepada manusia u
 
 Oleh karena itu, agama tetap memiliki peran penting sebagai **sumber nilai moral dan etika** yang dapat membimbing manusia dalam menggunakan pengetahuan ilmiah secara bertanggung jawab.
 
+**Pertanyaan Pak Al Muhdil:** nabi sulaiman bisa memindahkan istana dengan bantuan jin ifrit, dan hari ini manusia juga bisa memindahkan gedung dengan alat, yang awalnya memindahkan gedung itu mukjizat menjadi hal yang biasa, cuman yang harus diperhatikan adalah mulai ada potensi untuk hal tersebut bisa dilakukan oleh manusia, dan tidak menjadi mukjizat lagi, bagaimana pendapat kalian terkait fenomena tersebut, apakah kalian akan ada di pihak agama atau sains di mana mukjizat sudah bukan mukjizat
+
+**Jawaban Saya:** Pertama-tama perlu kita ketahui bahwasanya mukjizat berasal dari bahasa arab *a'jaza* yang berarti melemahkan atau menjadikan tidak mampu. Pelakunya (yang melemahkan) dinamai mu'jiz dan apabila kemampuannya melemahkan pihak lain amat menonjol sehingga mampu membungkam lawan, ia dinamai mu'jizat. Menurut Ustad Quraish shihab mu'jizat hanya diberikan oleh Allah kepada nabinya, sedangkan pada peristiwa pada zaman Nabi Sulaiman terjadi kompetisi antara jin ifrit dan seorang alim bernama ashif bin barkhoya yang pada akhirnya dilakukan pemindahan/teleportasi kerajaan oleh ashif bin barkhoya.
+**Jadi menurut saya** peristiwa ini bukanlah mu'jizat melainkan karamah, karena mu'jizat hanya diberikan kepada nabi atau rasul dan tidak dilakukan langsung oleh nabi sulaiman, selain itu manusia selalu memiliki keterbatasan akan hal-hal yang tidak akan pernah tercapai, contoh misalnya seperti eksistensi jiwa. 
+
 
 **sesi tanya jawab**
+**Pertanyaan presentator kepada saya**:Mengapa agama dan sains sering memiliki peran berbeda dalam perkembangan peradaban manusia?
 
-**Pertanyaan**: Mengapa manusia modern mulai berusaha mengalahkan kematian
+**Jawaban Saya**:agama dan sains sering memiliki peran berbeda dalam perkembangan peradaban manusia karena keduanya memiliki fungsi, fokus, dan cara memahami realitas yang berbeda 
 
-**Jawaban**: Manusia modern mulai mengatasi kematian karena telah sukses mengatasi ancaman seperti, wabah, kelaparan, perang. Dari mulai situlah kemajuan ilmu medis manusia itu melonjak jauh sehingga menciptakan teknologi mengalahkan kematian
-
-**Pertanyaan**: Bagaimana hubungan kemajuan teknologi dan perubahan nilai dalam kemanusiaan
-
-**Jawaban**: dalam dunia kerja manusia mulai digantikan oleh mesin, hal ini menimbulkan pertanyaan apakah manusia masih dibutuhkan?. contohnya lagi, sekarang teknologi itu bisa mengatur kehidupan jadi kehidupan manusia itu semakin dipertanyakan
-
-**Pertanyaan**: Mengapa harari menyebut manusia berusaha menjadi seperti dewa
-
-**Jawaban**: Manusia zaman dulu lebih memercayai adanya tuhan. zaman dulu itu ada banyak masalah seperti kelaparan, banjir, dll. Seiring berkembangnya waktu manusia bisa mengatasi semua masalah itu dan meningkatkan kemampuan manusia bahkan mencapai keabadian.
-
-**Dokumentasi**
+ada beberapa faktor: 
+1. Sains memberikan cara baru memahami realitas
+2. Sains tidak selalu menggantikan agama
+3. Hubungan sains dan agama dalam kehidupan
+4. Konflik muncul ketika klaim faktual agama bertentangan dengan sains
+5. Sains dan agama dapat saling melengkapi
+Walaupun sains berkembang pesat, ia tidak sepenuhnya menggantikan fungsi agama karena agama berperan dalam aspek spiritual dan moral yang tidak selalu dapat dijelaskan oleh sains.
 
 
 ![WhatsApp Image 2026-03-12 at 13 44 53](https://github.com/user-attachments/assets/12e054b3-35f8-4bbb-b415-aebbaeabeff5)
