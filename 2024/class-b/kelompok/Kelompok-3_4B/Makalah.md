@@ -51,10 +51,16 @@ semoga makalah ini dapat memberikan manfaat bagi para pembaca.
   <h1>DAFTAR ISI</h1>
 </div>
 
+* [1.1 Latar Belakang](#latar-belakang)
+* [1.2 Latar Belakang](#12-rumusan-masalah)
+
 <div align="center">
   <h1>BAB I</h1>
   <h1>PENDAHULUAN</h1>
 </div>
+
+<a name="latar-belakang"></a>
+
 ## 1.1 Latar Belakang
 Perkembangan teknologi informasi sejak pertengahan abad ke-20 telah mengubah secara mendasar lanskap sosial, ekonomi, politik, dan budaya global. Era 1960-an menandai titik balik ketika komputer beralih dari instrumen hitung militer-ilmiah yang terpusat menjadi fondasi infrastruktur digital yang kini menopang peradaban kontemporer. Dalam kurun waktu lebih dari enam dekade, dinamika penciptaan, distribusi, dan pemanfaatan teknologi tidak lagi digerakkan oleh satu aktor tunggal, melainkan oleh interaksi kompleks antara negara, sektor swasta, komunitas teknis, serta nilai-nilai ideologis yang melingkupinya. Memetakan pola hubungan antar-aktor tersebut menjadi prasyarat untuk memahami mengapa teknologi berkembang dalam bentuk, arah, dan regulasi seperti yang kita saksikan hari ini.
 
