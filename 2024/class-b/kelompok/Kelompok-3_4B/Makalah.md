@@ -61,7 +61,8 @@ Adapun tujuan penulisan makalah ini adalah:
 6. Untuk - Menganalisis hubungan antara kode sumber terbuka dan tertutup dengan ideologi
 
 # 2. PEMBAHASAN
-## 2.1 Pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang
+
+## 2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
 Kutipan Marx yang terkenal menyebutkan: 
@@ -80,12 +81,28 @@ Negara sejak 1960-an bukan netral, tapi jadi alat kelas berkuasa. teknologi
 diarahkan untuk mendukung kepentingan kapitalisme, misalnya lewat riset dan infrastruktur.
 jadi hubungan negara dan teknologi itu negara menjaga agar teknologi tetap meunguntungkan pemilik modal.
 
+## 2.2 Pola Hubungan antara Sektor Swasta dan Teknologi Pada Rentang Tahun 1960–Sekarang
+Pada awal 1960-an, hubungan antara teknologi dan sektor swasta masih sangat dipengaruhi oleh negara, khususnya militer Amerika Serikat. Melalui ARPA (Advanced Research Projects Agency), Departemen Pertahanan menjadi sumber utama pendanaan riset komputer, dengan pola hierarkis yang jelas: negara menentukan arah riset, universitas mengerjakan, dan kontraktor militer memproduksi. ARPANET, yang kelak menjadi cikal bakal internet, lahir dari motivasi praktis Bob Taylor untuk menghubungkan peneliti agar lebih efisien, bukan semata-mata demi keamanan nasional seperti narasi yang berkembang kemudian. Namun, stabilitas pola ini mulai retak seiring memanasnya Perang Vietnam. Gelombang protes mahasiswa, termasuk di Stanford yang memblokir SRI dan laboratorium berbasis dana pertahanan, memaksa universitas mempertimbangkan ulang ketergantungan mereka pada militer. Tekanan ini justru mendorong inovasi kelembagaan, seperti yang dilakukan Niels Reimers di Stanford, yang mulai merancang model komersialisasi riset agar universitas bisa menghasilkan pendapatan mandiri tanpa bergantung penuh pada negara.
+
+Pergeseran paling mendasar terjadi pada pertengahan 1970-an dengan munculnya dua mekanisme baru. Pertama, modal ventura modern yang dipelopori Don Valentine (Sequoia Capital) dan Kleiner & Perkins, yang menciptakan pola pendanaan berkelanjutan di mana pengusaha sukses mendanai dan membimbing generasi berikutnya. Kedua, transfer teknologi universitas melalui Kantor Lisensi Teknologi Stanford yang aktif mematenkan dan memasarkan inovasi kampus. Terobosan paten Cohen-Boyer (DNA rekombinan) yang menghasilkan $255 juta menjadi landasan bagi disahkannya Undang-Undang Bayh-Dole tahun 1980, regulasi yang secara resmi memungkinkan universitas memiliki dan melisensikan paten dari riset berdana federal. Momen ini menandai masuknya logika pasar secara formal ke dalam dunia riset akademis.
+
+Menjelang akhir 1970-an hingga awal 1980-an, pola hubungan berbalik arah: industri teknologi mulai aktif membentuk kebijakan negara. Asosiasi seperti Semiconductor Industry Association membawa tokoh-tokoh seperti Steve Jobs, Andy Grove, dan Robert Noyce ke Kongres untuk melobi kepentingan industri. Hasilnya nyata: pemotongan pajak capital gain dari 49% menjadi 28%, pelonggaran aturan investasi dana pensiun ke modal ventura, serta dukungan pemerintah daerah seperti Komisi Inovasi Industri California. Berlin mencatat ini sebagai momen lahirnya hubungan erat Silicon Valley–Washington, yang bahkan memunculkan istilah "Atari Democrats" bagi anggota Kongres yang mendukung industri teknologi.
+
+Apa yang dimulai sebagai proyek negara pada 1960-an akhirnya berevolusi menjadi ekosistem inovasi yang didorong sektor swasta pada 1980-an, dengan universitas berperan sebagai katalisator. Pola ini tidak dibangun oleh segelintir jenius tunggal, melainkan oleh jaringan aktor "lapisan kedua" yang membuat keputusan strategis tentang pendanaan, regulasi, dan paten. Ekosistem yang memadukan modal ventura, riset universitas, startup, dan lobi kebijakan ini kini menjadi model global. Sebagaimana dicatat Mowery dan Sampat (2004), Undang-Undang Bayh-Dole tetap menjadi titik balik paling signifikan dalam sejarah hubungan universitas–industri di Amerika Serikat, dengan dampak yang masih terasa hingga hari ini di hampir seluruh sistem riset dunia.
+
 ## 2.3 Implementasi dan Kontribusi Hacking Culture dalam Tkenologi Modern
 Jika kita melihat sejarah yang di catat oleh Leslie Berlin dalam buku *troublemakers*, istilah "peretasan" atau *hacking* memiliki makna yang jauh dari makna negatif kriminalitas siber saat ini. Di Silicon Valley era 1970-an *hacking culture adalah sebuah semangat untuk membongkar, memahami,dan menyusun kembali teknologi agar berfungsi lebih baik atau lebih menyenangkan.
 
 Salah satu contoh nyata dalam buku ini adalah kisah Al Alcorn saat merancang *Pong* di atari. Alcorn menunjukkan bahwa *hacking* adalah tentang kreativitas di tengah keterbatasan. Ia tidak menunggu intruksi manual yang rumit, justru ia "meretas" fungsi telivisi yang saat itu hanya menjad alat pasif untuk menonton berita, menjadi alat yang interaktif untuk bermain *game*. Begitu juga dengan tim di Xerox PARC di bawah arahan Bob Taylor. Mereka menolak cara lama dalam mengoperasikan komputer yang kaku dan berbasis teks. Dengan budaya *hacking* yang mengedepankan eksperimen, mereka berhasil menciptakan *mouse* dan "*GUI*" *Graphical User Interface* (ikon dan jendela) yang kita gunakan hingga hari ini.
 
 Kontribusi terbesar dari budaya ini bagi teknologi modern adalah humanisasi teknologi. Tanpa para *troublemakers* yang berani "menggulik" aturan-aturan lama, komputer mungkin masih menjadi mesin raksasa yang hanya di pahami oleh ilmuwan militer. Budaya *hacking* mengajarkan kita bahwa teknologi harus fleksibel dan fokus pada pengalaman penggunanya "*UX*" *User Experience*. Semangat bergerak cepat dan mencoba hal baru yang menjadi standar *startup* saat ini adalah warisan langsung dari budaya peretasan di masa wal Silicon Valley.
+
+## 2.4 Sejarah dan Pola Hubungan Antara Kode Sumber Terbuka dan Kode Sumber Tertutup Rentang Tahun 1970an-Sekarang.
+Evolusi hubungan antara kode sumber terbuka dan tertutup sejak 1970an mencerminkan transformasi struktural dalam produksi perangkat lunak. Pada dekade 1970an, pengembangan kode bersifat kolaboratif di lingkungan akademik seperti Bell Labs dan MIT, dengan UNIX yang disebarkan bersama dokumentasi sebagai bagian dari budaya pertukaran ilmu. Namun, awal 1980an menandai pergeseran akibat komersialisasi, ketika perusahaan mulai memperlakukan kode sebagai aset intelektual eksklusif, menciptakan dikotomi awal antara praktik berbagi di komunitas riset dan strategi proteksi pasar di industri.
+
+Ketegangan antara kedua model tersebut mengkristal pada akhir 1980an hingga 1990an melalui formalisasi kelembagaan sumber terbuka. Lisensi GNU GPL (1989) memperkenalkan mekanisme copyleft untuk melawan logika kepemilikan eksklusif, sementara proyek Linux (1991) membuktikan viabilitas pengembangan terdistribusi, dan pembentukan Open Source Initiative (1998) mengintegrasikan gerakan ini ke ranah bisnis. Meski narasi pasar saat itu cenderung mempertentangkan keduanya, secara teknis kedua model sering berbagi fondasi arsitektural yang sama, menunjukkan bahwa dikotomi tersebut lebih merupakan konstruksi pasar daripada batas teknis yang mutlak.
+
+Memasuki abad ke-21, pola hubungan mengalami konvergensi fungsional. Korporasi teknologi tidak lagi memandang sumber terbuka sebagai ancaman, melainkan sebagai infrastruktur strategis yang mengurangi biaya riset dan mempercepat inovasi. Mekanisme seperti lisensi ganda, model open-core, dan adopsi arsitektur cloud menjadi instrumen yang memungkinkan perusahaan mempertahankan kontrol komersial sekaligus memanfaatkan kolaborasi komunitas. Secara historis, batas antara "terbuka" dan "tertutup" terbukti permeabel dan kontekstual: melalui model inovasi private-collective, interaksi keduanya bukan pertarungan ideologis yang berakhir dengan dominasi satu pihak, melainkan proses adaptasi mutual yang menghasilkan arsitektur perangkat lunak kontemporer yang modular, terdistribusi secara global, dan berlapis lisensi.
 
 ## 2.5  Sikap Terhadap Kode Sumber Terbuka atau Kode Sumber Tertutup.
 Marx menekankan bahwa kepemilikan alat produksi menentukan relasi sosial.
@@ -94,8 +111,7 @@ yang menentukan siapa yang berhak mengakses, mengubah, dan memanfaatkanya.
 kutipan Marx : “The accumulation of capital, therefore, is concentration of the means of production and of the command over labour.” (Das Kapital, Vol. I)
 “Akumulasi kapital, dengan demikian, adalah konsentrasi alat produksi dan penguasaan atas tenaga kerja.”
 closed scourse menceriminkan logika kapitalisme: kode diprivatisasi, akses dibatasi, dan keuntungan terkonsentrasi pada pemilik modal. 
-sebaliknya, open source mencerminkan semangat kolektif:kode dibuka untuk semua,
-memungkinkan kolaborasi, dan menentang monopoli kapital. Sikap terhadap open source atau closed source pada ahirnya bukan hanya pilihan teknis, melainkan
+sebaliknya, open source mencerminkan semangat kolektif:kode dibuka untuk semua, memungkinkan kolaborasi, dan menentang monopoli kapital. Sikap terhadap open source atau closed source pada ahirnya bukan hanya pilihan teknis, melainkan
 pilihan politik dan ideologis. Mendukung open source berarti berpihak pada
 distribusi pengetahuan dan aksesyang lebih, sejalan dengan gagasan Marx tentang 
 kepemilikan bersama.sebaliknya, mendukung closed source berarti menerima struktur
@@ -103,8 +119,7 @@ kapitalisme yang menekan kontrol, profit, dan eksklusivitas.
 Open source berarti kode dibuka, bisa dipakai dan dikembangkan bersama. 
 Closed source berarti kode ditutup, hanya pemilik modal yang bisa kontrol dan ambil untung.
 
-
-### 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi
+## 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi
 Marx menjelaskan bahwa ideologi adalah bentuk "kesadaran palsu" yang
 menutupi relasi produksi sebenarnya. Kutipan Marx :
 “In the social production of their existence, men inevitably enter into definite relations, which are independent of their will.” (Preface to A Contribution to the Critique of Political Economy)
