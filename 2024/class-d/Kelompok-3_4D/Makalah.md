@@ -21,5 +21,6 @@
 6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
 ## Tujuan
 # BAB II PEMBAHASAN 
+## 2.1 
 # BAB III PENUTUP
 # DAFTAR PUSTAKA
