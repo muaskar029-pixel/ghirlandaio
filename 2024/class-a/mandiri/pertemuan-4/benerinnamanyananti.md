@@ -12,7 +12,7 @@ Resume ini dibuat dengan teori petik berry yaitu konsep perilaku pencarian infor
 
 Integrasi antara cybersecurity dan fisik dapat dilakukan dengan Cyber-Physical Systems (CPSs). CPSs dapat menggabungkan kedua fungsi yang ada di sumber daya komputasi dengan komponen fisik. Melalui penyatuan simbolis ini, CPS mampu berinteraksi dengan dunia fisik secara dinamis serta mengoordinasikan pemantauan, analisis, dan kontrol waktu nyata (real-time).
 
-### Definisi
+### a. Definisi
 
 Menurut National Science Foundation (NSF),
 ```
@@ -28,4 +28,12 @@ Cyber–physical systems (CPSs) are engineered systems that are developed from, 
 ```
 
 artinya: Sistem siber-fisik (CPS) adalah sistem rekayasa yang dikembangkan dari, dan bertumpu pada, integrasi yang mulus antara algoritma komputasi dan komponen fisik.
+
+### b. Fitur CPSs
+
+ 1. Integrasi komponen cyber dan fisik: dengan mengabungkan komponen siber dan fisik, CPS memungkinkan pemantauan, analisis, dan pengendalian komponen fisik secara real time. Dengan ini CPS dapat menghasilkan keputusan yang lebih adaptif sesuai dengan world data
+ 2. Pengindraan dan Aktuasi Waktu Nyata: Sensor Memantau fenomena fisik secara terus-menerus, seperti suhu, tekanan, gerakan, dan variabel lingkungan. Aktuator Mengubah perintah digital menjadi tindakan fisik sehingga CPS dapat berinteraksi dengan dan memengaruhi dunia fisik.
+    <img width="635" height="624" alt="image" src="https://github.com/user-attachments/assets/62e94772-5d49-4678-828a-b468f7b37129" />
+
+ 4. Arsitektur Terdistribusi dan Terjaringan: 
 
