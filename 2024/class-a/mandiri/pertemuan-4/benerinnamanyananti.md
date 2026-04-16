@@ -27,3 +27,5 @@ Menurut Institute of Electrical and Electronics Engineers (IEEE),
 Cyber–physical systems (CPSs) are engineered systems that are developed from, and pivot upon, the seamless integration of computational algorithms and physical components.
 ```
 
+artinya: Sistem siber-fisik (CPS) adalah sistem rekayasa yang dikembangkan dari, dan bertumpu pada, integrasi yang mulus antara algoritma komputasi dan komponen fisik.
+
