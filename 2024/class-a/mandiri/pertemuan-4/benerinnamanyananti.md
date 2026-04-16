@@ -2,7 +2,7 @@
 
 ## Latar Belakang
 
-Cybersecurity berperan penting dalam keamanan sistem suatu organisasi bahkan negara. Pada tahun 2010, salah satu fasilitas nuklir iran hancur karena serangan siber yang bernama stuxnet. Stuxnet adalah virus cacing yang dapat memantau dan mengendalikan komputer yang ia serang. pada fasilitas nuklir natanz iran, virus ini diduga diinstall melalui flashdisk salah satu pekerja disana. Virus ini mempercepat laju centrifuges pabrik sehingga laju centrifuges tidak teratur. Kegiatan ini dilakukan secara minim sehingga tidak disadari oleh pekerja disana. Pada tahun 2010 barulah diketahui bahwa terdapat virus berbahaya di komputer. peristiwa ini mengingatkan kita untuk wasapada terhadap ancaman cyber dan pengaruhnya terhadap fasilitas fisik.
+Cybersecurity berperan penting dalam keamanan sistem suatu organisasi bahkan negara. Pada tahun 2010, salah satu fasilitas nuklir iran hancur karena serangan siber yang bernama stuxnet. Stuxnet adalah virus cacing yang dapat memantau dan mengendalikan komputer yang ia serang. pada fasilitas nuklir natanz iran, virus ini diduga diinstall melalui flashdisk salah satu pekerja disana. Virus ini mempercepat laju centrifuges pabrik sehingga laju centrifuges tidak teratur. Kegiatan ini dilakukan secara minim sehingga tidak disadari oleh pekerja disana. Pada tahun 2010 barulah diketahui bahwa terdapat virus berbahaya di komputer(Mohn, 2023). peristiwa ini mengingatkan kita untuk wasapada terhadap ancaman cyber dan pengaruhnya terhadap fasilitas fisik.
 
 ## Metode
 
@@ -27,7 +27,7 @@ Menurut Institute of Electrical and Electronics Engineers (IEEE),
 Cyber–physical systems (CPSs) are engineered systems that are developed from, and pivot upon, the seamless integration of computational algorithms and physical components.
 ```
 
-artinya: Sistem siber-fisik (CPS) adalah sistem rekayasa yang dikembangkan dari, dan bertumpu pada, integrasi yang mulus antara algoritma komputasi dan komponen fisik.
+artinya: Sistem siber-fisik (CPS) adalah sistem rekayasa yang dikembangkan dari, dan bertumpu pada, integrasi yang mulus antara algoritma komputasi dan komponen fisik(Upreti et al., 2025).
 
 ### b. Fitur CPSs
 
@@ -37,6 +37,19 @@ artinya: Sistem siber-fisik (CPS) adalah sistem rekayasa yang dikembangkan dari,
  3. Arsitektur Terdistribusi dan Terjaringan: CPS dibedakan oleh arsitektur jaringan dan terdistribusi, yang terdiri dari beberapa komponen yang saling terhubung dan bekerja sama untuk mencapai tujuan tingkat sistem.
  4. Pendekatan Interdisipliner: Untuk menangani CPS secara efektif, diperlukan pendekatan interdisipliner yang menggabungkan pengetahuan dari berbagai bidang, mencakup teknik elektro, teknik mesin, ilmu data, ilmu komputer, dan teori kontrol.
  5. Kekokohan dan Resiliensi (Robustness and Resilience): CPS dirancang untuk menjadi kokoh dan tangguh dalam menghadapi kegagalan, gangguan, dan ketidakpastian. Desain CPS menyertakan teknik redundansi (penduplikatan sistem), toleransi kesalahan (fault tolerance), dan pemulihan kesalahan untuk menjamin fungsionalitas sistem dan operasi yang berkelanjutan saat menghadapi kesulitan.
- 6. Keselamatan dan Keamanan (Safety and Security): Untuk melindungi dari serangan berbahaya, akses tidak sah, dan konsekuensi yang tidak terduga, CPS menempatkan prioritas tinggi pada keselamatan dan keamanan. Langkah Keamanan; Protokol enkripsi, kontrol akses, prosedur autentikasi, dan langkah-langkah keamanan yang kuat diterapkan untuk melindungi komunikasi, data, dan komponen CPS dari ancaman siber. Standar Keselamatan; Aplikasi CPS yang kritis bagi keselamatan harus mengikuti standar dan hukum yang ketat untuk meminimalkan risiko terhadap manusia, properti, dan lingkungan.
+ 6. Keselamatan dan Keamanan (Safety and Security): Untuk melindungi dari serangan berbahaya, akses tidak sah, dan konsekuensi yang tidak terduga, CPS menempatkan prioritas tinggi pada keselamatan dan keamanan. Langkah Keamanan; Protokol enkripsi, kontrol akses, prosedur autentikasi, dan langkah-langkah keamanan yang kuat diterapkan untuk melindungi komunikasi, data, dan komponen CPS dari ancaman siber. Standar Keselamatan; Aplikasi CPS yang kritis bagi keselamatan harus mengikuti standar dan hukum yang ketat untuk meminimalkan risiko terhadap manusia, properti, dan lingkungan(Upreti et al., 2025).
 
 ### Kesimpulan
+Berdasarkan pembahasan penulis menyimpulkan bahwa integrasi keamanan siber dan fisik adalah ketika kedua fungsi dari hal tersebut bisa dikombinasikan dan mememuhi kebutuhan masyarakat. Dengan CPSs komputer dapat memberikan data yang up to date sehingga menghasilkan kebutuhan yang lebih bagus.
+
+## Daftar isi
+
+  Mohn, E. (2023). Stuxnet. EBSCO Research Starters. Diakses dari https://www.ebsco.com/research-starters/computer-science/stuxnet
+  Upreti, K. et al. (2025) Big Data Analytics and Intelligent Applications for Smart and Secure Healthcare Services. [edition unavailable]. CRC Press. Available at: https://www.perlego.com/book/4574697 (Accessed: 16 April 2026).
+
+
+## Dokumentasi
+<img width="1900" height="964" alt="image" src="https://github.com/user-attachments/assets/bcab45fb-1e63-4f7f-97c1-7fbb85e2ec03" />
+
+<img width="1417" height="856" alt="image" src="https://github.com/user-attachments/assets/fd3a9f22-eb26-4710-a88a-33b168710a8a" />
+
